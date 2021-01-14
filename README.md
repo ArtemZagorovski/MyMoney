@@ -1,8 +1,10 @@
 # MyMoney
 
-Architecture: VIP
+Architecture: MVVN
+
 Dependency manager: cocoapods
-UI: UIKit
+
+UI: SwiftUI
 
 ## Git rules
 
@@ -23,4 +25,4 @@ example: feature/MMIOS-1122-new-screen
 1. Commit message must contain the ticket number at the beginning
 2. Commit message must contain short description of the work done
 
-example: feature/MMIOS-1122: new screen added
+example: MMIOS-1122: new screen added
